@@ -4,7 +4,7 @@
 
 ### **About Me**
 
-I'm a dedicated final-year Computer Science student with a strong passion for technology. I'm always eager to explore new trends and techniques in the world of software development.
+I'm a dedicated final-year Computer Science student with a passion for crafting innovative web and mobile applications. I'm proficient in both frontend and backend development, and I'm always eager to learn and explore new technologies.
 
 ### **Skills**
 
