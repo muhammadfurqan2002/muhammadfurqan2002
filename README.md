@@ -1,4 +1,4 @@
-# **Muhammad Furqan's Tech Portfolio**
+# **Hi 👋, I'm Muhammad Furqan**
 
 **A Passionate Full-Stack Developer**
 
