@@ -21,6 +21,7 @@ I'm a dedicated final-year Computer Science student with a passion for crafting 
 * **Email:** furqan.b025@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/muhammad-furqan-5980ab297
 - **Portfolio:** [furqan-codes.vercel.app](https://furqan-codes.vercel.app) *(Work in Progress)*
+- https://bit.ly/4lFWwk1
 
 
 ### **Let's Connect!**
