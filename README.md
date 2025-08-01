@@ -17,7 +17,7 @@ With hands-on experience in both **frontend** and **backend**, I'm always excite
 #### 💻 Full-Stack Web Development
 - **Frontend:** React.js, Next.js, HTML5, CSS3, JavaScript (ES6+)
 - **Backend:** Node.js, Express.js, MongoDB, REST APIs
-- **Deployment:** Vercel, Netlify, GitHub Pages
+- **Deployment:** Vercel, Netlify, GitHub Pages, Aws
 
 #### 📱 Mobile App Development
 - **Flutter** – Cross-platform mobile apps (Android & iOS)
