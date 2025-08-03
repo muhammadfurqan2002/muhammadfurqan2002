@@ -28,7 +28,7 @@ With hands-on experience in both **frontend** and **backend**, I'm always excite
 - Firebase, AWS S3, PostgreSQL  
 
 #### 🧠 Interests
-- AI Integration (Face Recognition, Automation)
+- AI Integration (Automation)
 - Scalable Backend Architecture
 - Serverless (AWS Lambda)
 
