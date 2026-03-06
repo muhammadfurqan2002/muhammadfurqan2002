@@ -151,18 +151,6 @@ const furqan = {
   </tr>
 </table>
 
----
-
-## 🏆 Achievements & Activity
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=muhammadfurqan2002&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
-
----
-
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=80&section=footer" width="100%"/>
