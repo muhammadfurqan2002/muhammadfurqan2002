@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Furqan 👋
 
-<div align="center">
+<div align="">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+%C2%B7+Next.js+%C2%B7+NestJS;Building+Scalable+Web+Apps+%26+SaaS)
 
