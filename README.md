@@ -86,11 +86,6 @@ const furqan = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadfurqan2002&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadfurqan2002&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=muhammadfurqan2002&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%"/>
 </div>
 
