@@ -3,10 +3,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=140&section=header&text=Muhammad%20Furqan&fontSize=48&fontColor=ffffff&fontAlignY=70&desc=Full-Stack%20Developer&descSize=18&descAlignY=85&descColor=aaaaaa" width="100%"/>
 </div>
 
-<!-- Typing animation -->
+<br/>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%40+Devscape+Digital;MERN+%C2%B7+Next.js+%C2%B7+NestJS+%C2%B7+PostgreSQL;Building+Scalable+Web+Apps+%26+SaaS+Platforms;Open+to+Full-Time+%26+Freelance+Opportunities" alt="Typing SVG" />
+  <strong>Full-Stack Developer @ Devscape Digital</strong><br/>
+  <span>MERN · Next.js · NestJS · PostgreSQL · Building Scalable Web Apps & SaaS Platforms</span><br/>
+  <span>Open to Full-Time & Freelance Opportunities</span>
 </div>
+
 <br/>
 
 <!-- Social badges -->
@@ -144,6 +148,8 @@ const furqan = {
     </td>
   </tr>
 </table>
+
+---
 
 <!-- Footer -->
 <div align="center">
