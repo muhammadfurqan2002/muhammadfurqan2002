@@ -1,14 +1,13 @@
-<!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=140&section=header&text=Muhammad%20Furqan&fontSize=48&fontColor=ffffff&fontAlignY=70&desc=Full-Stack%20Developer&descSize=18&descAlignY=85&descColor=aaaaaa" width="100%"/>
-</div>
 
-<br/>
+# Muhammad Furqan
 
-<div align="center">
-  <strong>Full-Stack Developer @ Devscape Digital</strong><br/>
-  <span>MERN · Next.js · NestJS · PostgreSQL · Building Scalable Web Apps & SaaS Platforms</span><br/>
-  <span>Open to Full-Time & Freelance Opportunities</span>
+### Full-Stack Developer @ Devscape Digital
+
+MERN · Next.js · NestJS · PostgreSQL · Building Scalable Web Apps & SaaS Platforms
+
+*Open to Full-Time & Freelance Opportunities Worldwide*
+
 </div>
 
 <br/>
@@ -151,10 +150,7 @@ const furqan = {
 
 ---
 
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=80&section=footer" width="100%"/>
-</div>
+---
 
 <div align="center">
   <sub>💼 Open to full-time & freelance opportunities worldwide &nbsp;·&nbsp; 📍 Lahore, Pakistan &nbsp;·&nbsp; 📧 furqan.b2002@gmail.com</sub>
