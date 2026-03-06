@@ -150,8 +150,6 @@ const furqan = {
 
 ---
 
----
-
 <div align="center">
   <sub>💼 Open to full-time & freelance opportunities worldwide &nbsp;·&nbsp; 📍 Lahore, Pakistan &nbsp;·&nbsp; 📧 furqan.b2002@gmail.com</sub>
 </div>
