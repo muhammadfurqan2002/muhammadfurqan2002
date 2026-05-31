@@ -20,7 +20,7 @@ MERN · Next.js · NestJS · PostgreSQL · Building Scalable Web Apps & SaaS Pla
 
 ```typescript
 const furqan = {
-  role        : "Full-Stack Developer @ Devscape Digital",
+  role        : "Full-Stack Developer",
   stack       : ["MERN", "Next.js", "NestJS", "PostgreSQL", "Flutter"],
   currentWork : "Building production-grade SaaS & fintech platforms",
   interests   : ["Scalable Architecture", "AI Integration", "Serverless AWS"],
