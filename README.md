@@ -2,7 +2,7 @@
 
 # Muhammad Furqan
 
-### Full-Stack Developer @ Devscape Digital
+### Full-Stack Developer
 
 MERN · Next.js · NestJS · PostgreSQL · Building Scalable Web Apps & SaaS Platforms
 
